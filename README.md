@@ -1,2 +1,11 @@
-# problem-solving
-Collection of solved programming problems from LeetCode, and other platforms for practice and learning.
+# Problem Solving
+
+This repository contains solutions to programming problems from various platforms like LeetCode.  
+Language: Python
+
+Structure:
+
+- leetcode/
+  - easy/
+  - medium/
+  - hard/
