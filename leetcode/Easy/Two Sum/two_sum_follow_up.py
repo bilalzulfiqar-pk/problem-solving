@@ -11,7 +11,7 @@ class Solution(object):
             y = target - nums[i]
 
             if y in seen:
-                return [i,seen[y]]
+                return [seen[y],i]
 
             seen[nums[i]] = i
 
